@@ -1,0 +1,6 @@
+{
+  "name": "Trợ Lý Văn Học Số AI - THCS",
+  "description": "Trợ lý Văn học Số AI - Khơi nguồn sáng tạo cho học sinh THCS theo mô hình 5S của cô Lê Thị Tâm, Trường Chu Văn An, Hà Nội.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
